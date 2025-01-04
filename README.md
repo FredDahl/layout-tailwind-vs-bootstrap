@@ -1,3 +1,16 @@
+# Project Structure
+
+project/
+├── src/
+│   ├── bootstrap-version/
+│   │   └── index.html
+│   └── tailwind-version/
+│       └── index.html
+├── shared-assets/
+│   └── images/
+└── README.md
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
